@@ -1,0 +1,139 @@
+global coverage_group 0 0 $unit::i2c_coverage::i2c_cg __coverage_i2c_coverage.i2c_cg unused_i2c_coverage_i2c_cg_loop_label $unit 0 1 0 1 $unit::./rtl/i2c_master.sv::./rtl/i2c_slave.sv...@1527138568 0  ( 0 
+)
+ 1 1
+ 0 51 /home/hedu23/Hedu23/0419_UVM_I2C/tb/i2c_coverage.sv
+ 13 0 0 0 1 0 0 0 0  1
+0
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+4
+0
+1
+0
+ 7 cp_addr 14 0 0 0 0 0 0 130 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn 130 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 8 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 15 fnd_slave_write 15 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 other 16 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 8 0 0 0 0 0 0 0 0 0
+
+ 13 cp_write_data 19 0 0 0 0 0 0 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 8 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 5 1 1 0 0 1 1 4 zero 20 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_2 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 3 low 21 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_3 0 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_4 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 3 mid 22 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_5 0 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_6 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 high 23 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_7 0 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_8 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 full 24 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_9 0 0 0 0 0 0 0
+ 0
+
+ 11 cp_addr_ack 27 0 0 0 0 0 0 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_a 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_a 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 3 ack 28 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_b 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 nack 29 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_c 0 0 0 0 0 0 0
+ 0
+
+ 11 cp_data_ack 32 0 0 0 0 0 0 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_d 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_d 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 3 ack 33 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_b 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 nack 34 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 132 _vcs_unit__1527138568_i2c_coverage_11_0::_vcs_unit__1527138568_i2c_coverage_11_0__vcs_unit__1527138568_i2c_coverage_11_0_i2c_cg_fn_c 0 0 0 0 0 0 0
+ 0
+
+ 12 cx_addr_data 0 37 0 0 -1 0 0 0 0 2 0 1 0 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
